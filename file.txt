@@ -1,0 +1,2 @@
+Hi!
+This edit is made in branch 2!
